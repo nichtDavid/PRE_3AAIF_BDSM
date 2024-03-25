@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BDSM_Lagerverwaltung_Software.Properties
+namespace BDSM_Lagerverwaltung.Properties
 {
     
     

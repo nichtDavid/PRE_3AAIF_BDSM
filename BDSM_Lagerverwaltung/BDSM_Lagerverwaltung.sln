@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDSM_Lagerverwaltung_Software", "BDSM_Lagerverwaltung_Software.csproj", "{37822C46-ADA4-4D0F-A0FB-C3A2DE0C2676}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDSM_Lagerverwaltung", "BDSM_Lagerverwaltung.csproj", "{9B4B1C91-2687-40C4-A5D2-C04276960BD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{37822C46-ADA4-4D0F-A0FB-C3A2DE0C2676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37822C46-ADA4-4D0F-A0FB-C3A2DE0C2676}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37822C46-ADA4-4D0F-A0FB-C3A2DE0C2676}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37822C46-ADA4-4D0F-A0FB-C3A2DE0C2676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4B1C91-2687-40C4-A5D2-C04276960BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4B1C91-2687-40C4-A5D2-C04276960BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4B1C91-2687-40C4-A5D2-C04276960BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4B1C91-2687-40C4-A5D2-C04276960BD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0AB71340-87F3-4196-A646-43475A2735F4}
+		SolutionGuid = {202D6232-E469-4457-8A53-48F1475B05EA}
 	EndGlobalSection
 EndGlobal

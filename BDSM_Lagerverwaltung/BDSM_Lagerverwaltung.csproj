@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{37822C46-ADA4-4D0F-A0FB-C3A2DE0C2676}</ProjectGuid>
+    <ProjectGuid>{9B4B1C91-2687-40C4-A5D2-C04276960BD7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>BDSM_Lagerverwaltung_Software</RootNamespace>
-    <AssemblyName>BDSM_Lagerverwaltung_Software</AssemblyName>
+    <RootNamespace>BDSM_Lagerverwaltung</RootNamespace>
+    <AssemblyName>BDSM_Lagerverwaltung</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -91,7 +91,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="BDSM_Lagerverwaltung_Software_TemporaryKey.pfx" />
+    <None Include="BDSM_Lagerverwaltung_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -102,10 +102,10 @@
     <StartArguments />
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>BDSM_Lagerverwaltung_Software_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>BDSM_Lagerverwaltung_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>085BFCFF76CE4A6CFD22AD380BEC80CE028AE7AC</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>CEC89B7CFB233CE28C748F66ACAC57F10240210C</ManifestCertificateThumbprint>
   </PropertyGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

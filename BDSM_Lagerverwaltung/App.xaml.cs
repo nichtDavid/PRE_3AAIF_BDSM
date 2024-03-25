@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Navigation;
 
-namespace BDSM_Lagerverwaltung_Software
+namespace BDSM_Lagerverwaltung
 { 
     /// <summary>
     /// Interaction logic for App.xaml
